@@ -1,2 +1,2 @@
 # IPTV
-自用
+自用 live-Url
